@@ -25,3 +25,7 @@ Player: Available on itch.io by (Ozzbit Games) / https://ozzbit-games.itch.io/fa
 Rocks: Available on itch.io by (Xenophora) / https://xenophero.itch.io/rock-sprites
 
 Audio: Damage Sound (Undertale damage sound effect), Music (Jetpack Joyride OST - Main Theme)
+
+NAME : EFE
+SURNAME : GÜDER
+NUMBER : 2405041032
