@@ -3,7 +3,7 @@ import sys
 import random
 from settings import *
 from player import Player
-from npc_objects import Rock
+from objects import Rock
 from parallax import ParallaxBg
 from ui import UI
 
