@@ -12,8 +12,8 @@ class Sounds:
     def __init__(self):
         self.hit_sound = pygame.mixer.Sound("audio/damage.mp3")
         self.bg_music = pygame.mixer.Sound("audio/music.mp3")
-        self.bg_music.set_volume(0.2)
-        self.hit_sound.set_volume(0.5)
+        self.bg_music.set_volume(0.1)
+        self.hit_sound.set_volume(0.3)
 
     def play_music(self):
         self.bg_music.play(-1)
