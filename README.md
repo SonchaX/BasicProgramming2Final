@@ -1,6 +1,6 @@
 Escape The Avalanche
 
-A 2D survival running game made with Pygame for the Final Project by Efe Güder (that is, me :D).
+A 2D survival running game I made with Pygame for the Final Project.
 
 Objective:
 
@@ -27,5 +27,7 @@ Rocks: Available on itch.io by (Xenophora) / https://xenophero.itch.io/rock-spri
 Audio: Damage Sound (Undertale damage sound effect), Music (Jetpack Joyride OST - Main Theme)
 
 NAME : EFE
+
 SURNAME : GÜDER
+
 NUMBER : 2405041032
